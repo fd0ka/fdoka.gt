@@ -1,7 +1,7 @@
-update=1500
+update=1600
 msgupdate=هل تريد تحميل الاصدار الجديد من هكر فدوكا؟
-updateurl=
-endfdoka=false
+updateurl=https://www.google.com.eg/
+endfdoka=true
 endmsgfdoka=تم ايقاف النسخة عن العمل شكراً
 msgbox=اهلا بيك في هكر فدوكا
 msgbox2=تجربة 2
