@@ -1,6 +1,6 @@
 update=1600
 msgupdate=هل تريد تحميل الاصدار الجديد من هكر فدوكا؟
-updateurl=https://www.google.com.eg/
+updateurl=https://github.com/fd0ka/fdoka.gt/raw/master/FDOKA.exe
 endfdoka=true
 endmsgfdoka=تم ايقاف النسخة عن العمل شكراً
 msgbox=اهلا بيك في هكر فدوكا
