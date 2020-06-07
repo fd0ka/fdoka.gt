@@ -3,7 +3,7 @@ msgupdate=هل تريد تحميل الاصدار الجديد من هكر فد�
 updateurl=https://github.com/fd0ka/fdoka.gt/raw/master/FDOKA.exe
 endfdoka=false
 endmsgfdoka=تم ايقاف النسخة عن العمل شكراً
-msgbox=
-msgbox2=
+msgbox=سيتم ايقاف نسختك لعدم دعم فدوكا
+msgbox2=قم بوضع لايك لفيديو الخاص بالبرنامج لتفادى الايقاف 
 openurl=
 discord=
